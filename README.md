@@ -1,6 +1,10 @@
 ## Hi there👋
-![](https://github-readme-stats.vercel.app/api?username=KanedaMasaki&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KanedaMasaki&layout=compact&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanedaMasaki&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KanedaMasaki&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KanedaMasaki&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KanedaMasaki&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KanedaMasaki&theme=dracula)
+
 
 <!--
 **KanedaMasaki/KanedaMasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
